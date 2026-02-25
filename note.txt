@@ -1,0 +1,3 @@
+Developing simple budget tracker website
+
+1. Home Page 
